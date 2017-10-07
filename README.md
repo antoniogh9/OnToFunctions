@@ -1,4 +1,4 @@
-# OnToFunctions
+# WSQ-5_OnToFunctions
 This program adds, substract, multiply, divide and gives the remainder of two given number.
 
 #include <iostream>
